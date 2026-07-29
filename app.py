@@ -124,4 +124,4 @@ if translate_clicked:
 
 # ---------- FOOTER ----------
 st.markdown("<br>", unsafe_allow_html=True)
-st.caption("Built with Streamlit · Google Translate Engine · Final Year AI Project")
+st.caption("Built with Streamlit · Google Translate Engine ·")
